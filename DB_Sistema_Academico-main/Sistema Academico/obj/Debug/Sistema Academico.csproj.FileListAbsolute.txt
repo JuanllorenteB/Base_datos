@@ -1,0 +1,177 @@
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\Sistema Academico.dll.config
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\Sistema Academico.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\Sistema Academico.pdb
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\csc.exe
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\csc.exe.config
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\csc.rsp
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\csi.exe
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\csi.exe.config
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\csi.rsp
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Console.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\vbc.exe
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\vbc.exe.config
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\vbc.rsp
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\obj\Debug\Sistema Academico.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\obj\Debug\Sistema Academico.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\obj\Debug\Sistema Academico.csproj.CopyComplete
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\obj\Debug\Sistema Academico.dll
+C:\Users\HP\Source\Repos\DB_Sistema_Academico\Sistema Academico\obj\Debug\Sistema Academico.pdb
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\Sistema Academico.dll.config
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\Sistema Academico.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\Sistema Academico.pdb
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\csc.exe
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\csc.exe.config
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\csc.rsp
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\csi.exe
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\csi.exe.config
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\csi.rsp
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Console.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\vbc.exe
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\vbc.exe.config
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\vbc.rsp
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\obj\Debug\Sistema Academico.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\obj\Debug\Sistema Academico.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\obj\Debug\Sistema Academico.csproj.CopyComplete
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\obj\Debug\Sistema Academico.dll
+C:\Users\HP\Documents\GitHub\DB_Sistema_Academico\Sistema Academico\obj\Debug\Sistema Academico.pdb
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\Sistema Academico.dll.config
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\Sistema Academico.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\Sistema Academico.pdb
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\csc.exe
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\csc.exe.config
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\csc.rsp
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\csi.exe
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\csi.exe.config
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\csi.rsp
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.AppContext.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Collections.Immutable.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Console.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Globalization.Calendars.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.IO.Compression.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.IO.FileSystem.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Net.Http.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Net.Sockets.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Reflection.Metadata.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.ValueTuple.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Xml.XPath.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\vbc.exe
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\vbc.exe.config
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\vbc.rsp
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\VBCSCompiler.exe
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\roslyn\VBCSCompiler.exe.config
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\obj\Debug\Sistema Academico.csproj.AssemblyReference.cache
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\obj\Debug\Sistema Academico.csproj.CoreCompileInputs.cache
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\obj\Debug\Sistema Academico.csproj.CopyComplete
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\obj\Debug\Sistema Academico.dll
+D:\Git LFS\DB_Sistema_Academico-main\DB_Sistema_Academico-main\DB_Sistema_Academico-main\Sistema Academico\obj\Debug\Sistema Academico.pdb
